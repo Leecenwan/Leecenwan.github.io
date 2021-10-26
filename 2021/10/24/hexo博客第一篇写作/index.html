@@ -52,17 +52,9 @@
 <body>
   <div id="app">
     
-      <canvas class="fireworks"></canvas>
-      <style>
-        .fireworks {
-          position: fixed;
-          left: 0;
-          top: 0;
-          z-index: 99999;
-          pointer-events: none;
-        }
-      </style>
       
+      <canvas width="1777" height="841"
+        style="position: fixed; left: 0px; top: 0px; z-index: 99999; pointer-events: none;"></canvas>
       
     <main class="content on">
       <section class="outer">
@@ -217,11 +209,11 @@
 <script>
   new Valine({
     el: "#vcomments",
-    app_id: "",
-    app_key: "",
+    app_id: "YYmCDdCKWcoJ0LiL9b1DK2za-gzGzoHsz",
+    app_key: "fMq7FzGqWHRr6n3cv4L6zWkm",
     path: window.location.pathname,
     avatar: "monsterid",
-    placeholder: "给我的文章加点评论吧~",
+    placeholder: "给我的文章bb两句",
     recordIP: true,
   });
   const infoEle = document.querySelector("#vcomments .info");
@@ -253,6 +245,18 @@
   .v .vlist .vcard {
     padding-left: 10px;
   }
+  .v[data-class=v] .veditor {
+    background-image: url(https://cdn.jsdelivr.net/gh/xxxxxx/xxxx/xxxx.xxx);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+/* 作者: Justlovesmile
+链接: https://blog.justlovesmile.top/posts/27831.html
+来源: Justlovesmile's BLOG
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。 */
 </style>
 
  
@@ -319,7 +323,7 @@
 <nav class="navbar">
   
   <div class="logo">
-    <a href="/"><img src="/images/ayer-side.svg" alt=""></a>
+    <a href="/"><img src="/images/eason.svg" alt=""></a>
   </div>
   
   <ul class="nav nav-main">
@@ -541,12 +545,10 @@
 
 <!-- ClickBoom1 -->
 
-<script src="https://cdn.jsdelivr.net/npm/animejs@latest/anime.min.js"></script>
-
-<script src="/js/clickBoom1.js"></script>
- 
 <!-- ClickBoom2 -->
-
+ 
+<script src="/js/clickBoom2.js"></script>
+ 
 <!-- CodeCopy -->
  
 <link rel="stylesheet" href="/css/clipboard.css">
@@ -616,6 +618,23 @@
 </script>
 
 
+    
+    <div id="music">
+    
+    
+    
+    <iframe frameborder="no" border="1" marginwidth="0" marginheight="0" width="200" height="52"
+        src="//music.163.com/outchain/player?type=2&id=28661549&auto=1&height=32"></iframe>
+</div>
+
+<style>
+    #music {
+        position: fixed;
+        right: 15px;
+        bottom: 0;
+        z-index: 998;
+    }
+</style>
     
     
 

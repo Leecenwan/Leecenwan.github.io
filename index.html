@@ -52,17 +52,9 @@
 <body>
   <div id="app">
     
-      <canvas class="fireworks"></canvas>
-      <style>
-        .fireworks {
-          position: fixed;
-          left: 0;
-          top: 0;
-          z-index: 99999;
-          pointer-events: none;
-        }
-      </style>
       
+      <canvas width="1777" height="841"
+        style="position: fixed; left: 0px; top: 0px; z-index: 99999; pointer-events: none;"></canvas>
       
     <main class="content on">
       
@@ -75,7 +67,7 @@
     
   <div class="cover-frame">
     <div class="bg-box">
-      <img src="/images/cover8.jpg" alt="image frame" />
+      <img src="/images/cover10.jpg" alt="image frame" />
     </div>
     <div class="cover-inner text-center text-white">
       <h1><a href="/"></a></h1>
@@ -104,7 +96,7 @@
   <script>
     try {
       var typed = new Typed("#subtitle", {
-        strings: ['如能忘掉渴望，岁月长，衣裳薄', '踏过万里，延续故事', '至少要见面上万次'],
+        strings: ['问到何时葡萄先熟透', '你要静候 在静候', '你最尾等到只有这枯枝'],
         startDelay: 0,
         typeSpeed: 200,
         loop: true,
@@ -274,7 +266,7 @@
 <nav class="navbar">
   
   <div class="logo">
-    <a href="/"><img src="/images/ayer-side.svg" alt=""></a>
+    <a href="/"><img src="/images/eason.svg" alt=""></a>
   </div>
   
   <ul class="nav nav-main">
@@ -480,12 +472,10 @@
 
 <!-- ClickBoom1 -->
 
-<script src="https://cdn.jsdelivr.net/npm/animejs@latest/anime.min.js"></script>
-
-<script src="/js/clickBoom1.js"></script>
- 
 <!-- ClickBoom2 -->
-
+ 
+<script src="/js/clickBoom2.js"></script>
+ 
 <!-- CodeCopy -->
  
 <link rel="stylesheet" href="/css/clipboard.css">
@@ -555,6 +545,23 @@
 </script>
 
 
+    
+    <div id="music">
+    
+    
+    
+    <iframe frameborder="no" border="1" marginwidth="0" marginheight="0" width="200" height="52"
+        src="//music.163.com/outchain/player?type=2&id=28661549&auto=1&height=32"></iframe>
+</div>
+
+<style>
+    #music {
+        position: fixed;
+        right: 15px;
+        bottom: 0;
+        z-index: 998;
+    }
+</style>
     
     
 
