@@ -2303,7 +2303,7 @@ pre .id {
     font-style:italic;
     display: block;
     padding: 1rem;
-    color: #bbb;
+    color: #0990f0;
     text-decoration: none;
     cursor: pointer;
 }
@@ -2328,7 +2328,7 @@ pre .id {
 }
 .navbar-bottom {
     position: absolute;
-    bottom: 0;
+    bottom: 40%;
     width: 100%;
     font-size: 2rem;
 }

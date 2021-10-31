@@ -1,5 +1,5 @@
 body {
-  cursor: url("/images/mouse.cur"), auto;
+  cursor: url("https://cdn.jsdelivr.net/gh/fz6m/Private-web@1.5/image/cursor/work.cur"), auto;
 }
 .sidebar {
   left: -8rem;
