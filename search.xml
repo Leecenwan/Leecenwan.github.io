@@ -20,6 +20,45 @@
       </tags>
   </entry>
   <entry>
+    <title>vscode小体会</title>
+    <url>/2021/11/01/vscode%E5%B0%8F%E4%BD%93%E4%BC%9A/</url>
+    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a><em>前言</em></h3><p> 听江湖上说vscode有“一器破万法”的美称，上课学习上班摸鱼干啥都行的神器。是因为它强大的插件扩展，最重要它还是开源，免费。<br> 恰巧最近写博客我也下了这个编译器，感受一下它的快乐~  </p>
+<hr>
+<ol>
+<li><em><strong>下载</strong></em><br>首先vscoede的下载和安装还是比较简单的。大家去<a href="https://code.visualstudio.com/">Download</a>然后不同的系统大家自行选择就行了。  </li>
+<li><em><strong>插件</strong></em><br>大家安装完打开以后的页面都是英文的，对于我来说用起来比较困难。首先我们要去左边的扩展功能(Ctrl+Shift+x)里面搜索chinese→找到中文简体→Install，下载在重启vscode之后就是中文页面了。  </li>
+</ol>
+<ul>
+<li><em><strong>主题更改</strong></em>  </li>
+</ul>
+<p>  在文件→自选项→颜色主题。我还是比较喜欢快捷键Ctrl+K+t就会出来了<br>  <img src="https://pic.imgdb.cn/item/617f8f482ab3f51d916cbfd2.png"><br>  大家可以一个个试，如果还没有适合你的，可以下拉到最后有个安装其他颜色主题，相信总会有适合你的。  </p>
+<ul>
+<li><em><strong>Beauty</strong></em><br>这个是我最近常用的插件，超级好用。因为博客里面很多的样式代码都压缩了，打开简直密密麻麻看的你头皮发麻，这个插件就能很好的让代码还原。使用也超级方便，全选代码然后Ctrl+Shift+b就会还原了  </li>
+<li><em><strong>markdown侧边预览</strong></em><br>很多人写文章可能都在用typora,我比较懒，写代码和文章都用vscode了。这里有个侧边实时预览功能我好喜欢。按F1就会弹出来<br><img src="https://pic.imgdb.cn/item/617f935e2ab3f51d91705c4b.jpg"><br>选第一个，就会打开了。  </li>
+<li><em><strong>guides</strong></em><br><img src="https://pic.imgdb.cn/item/617f96272ab3f51d9172ab17.jpg"><br>显示代码对齐的辅助线，有时候我写div的时候也会让它们在同一条线上，不然div嵌套多了不好找…这个其实对于强迫症的同学还是蛮有意思的~  </li>
+<li><em><strong>HTML Snippets</strong></em><br>HTML代码提示  </li>
+<li><em><strong>HTML CSS Support</strong></em><br>智能提示CSS样式  </li>
+<li><em><strong>CSS Peek</strong></em><br>可以在HTML中通过CSS id或则class来定位到其定义。<br><img src="https://pic.imgdb.cn/item/617f9d892ab3f51d91786ed4.jpg" alt="来自https://zhuanlan.zhihu.com/p/40417719">  </li>
+</ul>
+<ol start="3">
+<li><em><strong>摸鱼插件</strong></em>  </li>
+</ol>
+<ul>
+<li><em>小霸王</em><br><img src="https://pic.imgdb.cn/item/617f9f6e2ab3f51d917a57a0.jpg"><br>哈！每天上班小霸王,下班冲饭堂~  </li>
+<li><em>cloudmusic</em><br>网易云有的感觉它都有<br><img src="https://pic.imgdb.cn/item/617fa1fe2ab3f51d917ce494.jpg">  </li>
+<li><em>NBA</em><br>球迷必备，看球嘛顺便上个班挺正常的=-<br><img src="https://pic.imgdb.cn/item/617fa2c52ab3f51d917d9238.jpg">  </li>
+</ul>
+<hr>
+<h3 id="END"><a href="#END" class="headerlink" title="END"></a>END</h3><p>   接触vscode不久，暂时先给大家带来这些插件。随着对于vscode的深入与学习，这篇博客也给大家不定期更新，就这样。</p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>vsdoe</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>前端基础学习</title>
     <url>/2021/10/31/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0/</url>
     <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>其实大一的时候就有学过一些前端基础知识，但是好久没有敲了，基本都忘记的差不多了，现在因为要搭博客要用到这些知识只能再次学习起来了.<br> 接下来跟大家分享一下，我学习时经常看的一些教程~</p>
