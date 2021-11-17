@@ -2339,6 +2339,7 @@ pre .id {
 .logo img {
     width: 4.2rem;
 }
+.tosearch,
 .todark,
 .totop {
     position: relative;
@@ -2353,11 +2354,12 @@ pre .id {
     opacity: 0.6;
     transition: opacity 1s ease;
 }
+.tosearch:hover,
 .todark:hover,
 .totop:hover {
     opacity: 1;
 }
-.totop {
+.totop,.tosearch {
     margin-bottom: 0.8rem;
 }
 .totop:hover > i {
