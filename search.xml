@@ -20,6 +20,26 @@
       </tags>
   </entry>
   <entry>
+    <title>前端基础学习</title>
+    <url>/2021/10/31/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0/</url>
+    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>其实大一的时候就有学过一些前端基础知识，但是好久没有敲了，基本都忘记的差不多了，现在因为要搭博客要用到这些知识只能再次学习起来了.<br> 接下来跟大家分享一下，我学习时经常看的一些教程~</p>
+<hr>
+<ol>
+<li><strong><a href="https://www.bilibili.com/video/BV14J4114768?from=search&seid=5641957586203511466&spm_id_from=333.337.0.0">黑马的pink老师</a></strong><br>这是我目前最爱的教程，pink老师的风格我可太like了。他从html讲到js涵盖的知识点很全面，讲的也很细，主要是听他讲课我不会睡觉。而且每学完一章都会有相应的案例，可以跟着他敲，这样子熟悉的更快~  </li>
+<li><strong><a href="https://www.w3school.com.cn/css/index.asp">W3school</a></strong><br>W3s我一般用来查知识点，有时候记不住的语法或属性都会过来查查。这个教程是文档型对于想入门学习的小伙伴可能不太理解，所以我一般都是用这个查漏补缺的。<br>个人还是偏向于视频学习，感觉有人讲更生动这样子学起来不枯燥。  </li>
+<li><strong><a href="https://www.runoob.com/">菜鸟教程</a></strong><br>首先这个名字一看就很适合我，菜鸟教程其实跟W3s差不多。但是总感觉菜鸟的图文做的要好一点，页面也好看一些。<br>反正见仁见智吧，大家喜欢哪个就用哪个，喜欢也可以混着用。  </li>
+</ol>
+<hr>
+<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p> 作为一个刚刚起步学习的人，以上教程比较适合和我一样基础入门的同学。我记得阿里云也有教程，有喜欢的同学可以去看看。<br> <em><strong>教程虽少，但是学习还是贵在坚持，祝大家早日成为前端大牛~</strong></em></p>
+]]></content>
+      <categories>
+        <category>学习</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>vscode小体会</title>
     <url>/2021/11/01/vscode%E5%B0%8F%E4%BD%93%E4%BC%9A/</url>
     <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a><em>前言</em></h3><p> 听江湖上说vscode有“一器破万法”的美称，上课学习上班摸鱼干啥都行的神器。是因为它强大的插件扩展，最重要它还是开源，免费。<br> 恰巧最近写博客我也下了这个编译器，感受一下它的快乐~  </p>
@@ -56,26 +76,6 @@
       </categories>
       <tags>
         <tag>vsdoe</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>前端基础学习</title>
-    <url>/2021/10/31/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0/</url>
-    <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>其实大一的时候就有学过一些前端基础知识，但是好久没有敲了，基本都忘记的差不多了，现在因为要搭博客要用到这些知识只能再次学习起来了.<br> 接下来跟大家分享一下，我学习时经常看的一些教程~</p>
-<hr>
-<ol>
-<li><strong><a href="https://www.bilibili.com/video/BV14J4114768?from=search&seid=5641957586203511466&spm_id_from=333.337.0.0">黑马的pink老师</a></strong><br>这是我目前最爱的教程，pink老师的风格我可太like了。他从html讲到js涵盖的知识点很全面，讲的也很细，主要是听他讲课我不会睡觉。而且每学完一章都会有相应的案例，可以跟着他敲，这样子熟悉的更快~  </li>
-<li><strong><a href="https://www.w3school.com.cn/css/index.asp">W3school</a></strong><br>W3s我一般用来查知识点，有时候记不住的语法或属性都会过来查查。这个教程是文档型对于想入门学习的小伙伴可能不太理解，所以我一般都是用这个查漏补缺的。<br>个人还是偏向于视频学习，感觉有人讲更生动这样子学起来不枯燥。  </li>
-<li><strong><a href="https://www.runoob.com/">菜鸟教程</a></strong><br>首先这个名字一看就很适合我，菜鸟教程其实跟W3s差不多。但是总感觉菜鸟的图文做的要好一点，页面也好看一些。<br>反正见仁见智吧，大家喜欢哪个就用哪个，喜欢也可以混着用。  </li>
-</ol>
-<hr>
-<h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p> 作为一个刚刚起步学习的人，以上教程比较适合和我一样基础入门的同学。我记得阿里云也有教程，有喜欢的同学可以去看看。<br> <em><strong>教程虽少，但是学习还是贵在坚持，祝大家早日成为前端大牛~</strong></em></p>
-]]></content>
-      <categories>
-        <category>学习</category>
-      </categories>
-      <tags>
-        <tag>前端</tag>
       </tags>
   </entry>
 </search>
