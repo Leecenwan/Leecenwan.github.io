@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>hexo博客第一篇写作</title>
+    <url>/2021/10/24/hexo%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E7%AF%87%E5%86%99%E4%BD%9C/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>经过一天的折磨才搭建的博客，终于走上了正轨开始了写作的第一步。  </p>
+<p>关于教程大家可以去看看<a href="https://hexo.io/zh-cn/docs/">Hexo的官方文档</a>。觉得不详细还可以去一些大牛的博客，不过搭建中还是会遇到小问题，大家可以自行度娘解决了。</p>
+<hr>
+<h2 id="为什么要搭建博客？"><a href="#为什么要搭建博客？" class="headerlink" title="为什么要搭建博客？"></a>为什么要搭建博客？</h2><p>其实说起这还挺偶然的，有一次无意间进去了别人的博客被里面满满的科技风设计所吸引住了，便开始萌生了想法。</p>
+<p>其实换个角度想可以网上有个属于自己搭建的写字的小地方确实不错，大家还可以互相访问互相交流我还挺喜欢</p>
+<hr>
+<h2 id="关于后面的想法"><a href="#关于后面的想法" class="headerlink" title="关于后面的想法"></a>关于后面的想法</h2><p>初搭博客，想慢慢熟悉去怎么玩转它。</p>
+<p>想让博客慢慢(hua)好(li)看(hushao)起来，希望能跟大家一起学习，就酱！</p>
+]]></content>
+      <categories>
+        <category>随心贴</category>
+      </categories>
+      <tags>
+        <tag>写作</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>vscode小体会</title>
     <url>/2021/11/01/vscode%E5%B0%8F%E4%BD%93%E4%BC%9A/</url>
     <content><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a><em>前言</em></h3><p> 听江湖上说vscode有“一器破万法”的美称，上课学习上班摸鱼干啥都行的神器。是因为它强大的插件扩展，最重要它还是开源，免费。<br> 恰巧最近写博客我也下了这个编译器，感受一下它的快乐~  </p>
@@ -37,25 +56,6 @@
       </categories>
       <tags>
         <tag>vsdoe</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo博客第一篇写作</title>
-    <url>/2021/10/24/hexo%E5%8D%9A%E5%AE%A2%E7%AC%AC%E4%B8%80%E7%AF%87%E5%86%99%E4%BD%9C/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>经过一天的折磨才搭建的博客，终于走上了正轨开始了写作的第一步。  </p>
-<p>关于教程大家可以去看看<a href="https://hexo.io/zh-cn/docs/">Hexo的官方文档</a>。觉得不详细还可以去一些大牛的博客，不过搭建中还是会遇到小问题，大家可以自行度娘解决了。</p>
-<hr>
-<h2 id="为什么要搭建博客？"><a href="#为什么要搭建博客？" class="headerlink" title="为什么要搭建博客？"></a>为什么要搭建博客？</h2><p>其实说起这还挺偶然的，有一次无意间进去了别人的博客被里面满满的科技风设计所吸引住了，便开始萌生了想法。</p>
-<p>其实换个角度想可以网上有个属于自己搭建的写字的小地方确实不错，大家还可以互相访问互相交流我还挺喜欢</p>
-<hr>
-<h2 id="关于后面的想法"><a href="#关于后面的想法" class="headerlink" title="关于后面的想法"></a>关于后面的想法</h2><p>初搭博客，想慢慢熟悉去怎么玩转它。</p>
-<p>想让博客慢慢(hua)好(li)看(hushao)起来，希望能跟大家一起学习，就酱！</p>
-]]></content>
-      <categories>
-        <category>随心贴</category>
-      </categories>
-      <tags>
-        <tag>写作</tag>
       </tags>
   </entry>
   <entry>
